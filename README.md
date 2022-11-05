@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argofix&label=Profile%20views&color=0e75b6&style=flat" alt="argofix" /> </p>
 
 
-- 🔭 Atualmente trabalho no Centro Nacional de Pesquisa e Conservação em Aves Silvestres - [CEMAVE](http://www.icmbio.gov.br/cemave)
+- 🔭 Atualmente trabalho no [Centro Nacional de Pesquisa e Conservação em Aves Silvestres - CEMAVE](http://www.icmbio.gov.br/cemave)
 
-- 👯 O CEMAVE é um dos centros de pesquisa do Instituto Chico Mendes de Conservação da Biodiversidade - [ICMBio](http://www.icmbio.gov.br)
+- 👯 O CEMAVE é um dos centros de pesquisa do [Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio](http://www.icmbio.gov.br)
 
 - 📫 Você pode me contatar pelo e-mail: **arlindo.gomes-filho@icmbio.gov.br**
 
-- 📄 Conheça mais sobre minha experiência profissional [http://lattes.cnpq.br/4405446165278745](http://lattes.cnpq.br/4405446165278745)
+- 📄 Sobre minha experiência profissional: [http://lattes.cnpq.br/4405446165278745](http://lattes.cnpq.br/4405446165278745)
 
 <h3 align="left">Nas redes sociais:</h3>
 <p align="left">
